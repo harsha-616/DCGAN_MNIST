@@ -65,10 +65,6 @@ Check the attached image for a sample of generated digits after 130 epochs. The 
 
 Feel free to fork this repository, submit issues, or create pull requests to improve the model or documentation.
 
-## License
-
-\[Specify license, e.g., MIT\] - Add your preferred license text here.
-
 ## Acknowledgments
 
 Inspired by the PyTorch DCGAN tutorial and the broader machine learning community. Special thanks to the open-source tools that made this project possible!
