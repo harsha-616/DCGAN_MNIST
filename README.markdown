@@ -39,10 +39,8 @@ pip install torch torchvision matplotlib numpy
 3. Run the training script:
 
    ```bash
-   python train.py
+   python DCGAN_MNIST.ipynb
    ```
-
-   (Note: Ensure the code is saved as `train.py` in the repository.)
 
 ## Training Details
 
@@ -54,8 +52,7 @@ pip install torch torchvision matplotlib numpy
 
 ## Generated Outputs
 
-- Model checkpoints are saved as `generator_epoch_X.pth` and `discriminator_epoch_X.pth`.
-- Generated images are saved as `image_at_epoch_XXXX.png` (e.g., `image_at_epoch_0130.png` for epoch 130).
+- Generated images are saved as `image_at_epoch_0130.png`  for epoch 130).
 
 ## Results
 
